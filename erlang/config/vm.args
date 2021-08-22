@@ -1,0 +1,6 @@
+-sname ping_pong
+
+-setcookie ping_pong_cookie
+
++K true
++A30
